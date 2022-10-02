@@ -1,5 +1,5 @@
 # SQL-Project
-Target retail store  sql case study-Customer Purchasing Behaviour
+Target Retail Store SQL Case Study-Customer Purchasing Behaviour
 
 
 Context:
