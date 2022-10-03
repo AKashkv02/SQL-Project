@@ -1,4 +1,4 @@
-# SQL-Customer Purchasing Pehaviour
+# SQL-Customer Purchasing Behaviour
 Target Retail Store SQL Case Study-Customer Purchasing Behaviour
 
 
